@@ -1,0 +1,28 @@
+{
+  "name": "postgres-information-schema",
+  "version": "0.1.0",
+  "description": "Postgres Columns & Relationship Detail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhrashisdas/postgres-information-schema.git"
+  },
+  "keywords": [
+    "postgres",
+    "information",
+    "schema"
+  ],
+  "author": "Subhrashis Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subhrashisdas/postgres-information-schema/issues"
+  },
+  "homepage": "https://github.com/subhrashisdas/postgres-information-schema#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "pg": "^7.4.2"
+  }
+}

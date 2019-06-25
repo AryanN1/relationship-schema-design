@@ -1,1 +1,2 @@
-# relationship-schema-design
+# postgres-information-schema
+Database Columns &amp; Relationship Detail
